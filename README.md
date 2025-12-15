@@ -102,15 +102,15 @@ https://www.airroi.com/data-portal/markets/nairobi-kenya
 ## 📊 Key Insights
 ### Pricing & Revenue Analysis
 
-*   What's the correlation between listing type and average nightly rate?
+*   What's the correlation between listing type and average nightly rate? tick
     
-*   Which room types generate the most revenue despite having lower average rates?
+*   Which room types generate the most revenue despite having lower average rates? tick
     
-*   Are professionally managed listings priced higher than individually managed ones?
+*   Are professionally managed listings priced higher than individually managed ones? tick
     
-*   What price range attracts the most bookings (occupancy)?
+*   What price range attracts the most bookings (occupancy)? tick
     
-*   How does cancellation policy affect pricing strategy?
+*   How does cancellation policy affect pricing strategy? tick
     
 
 ### Occupancy & Booking Patterns
@@ -130,9 +130,9 @@ https://www.airroi.com/data-portal/markets/nairobi-kenya
 
 *   Do professionally managed listings have better reviews/ratings (if available)?
     
-*   What percentage of listings are professionally managed vs. individual?
+*   What percentage of listings are professionally managed vs. individual? tick
     
-*   Do professional hosts charge more or less than individual hosts?
+*   Do professional hosts charge more or less than individual hosts? tick
     
 *   Is there a relationship between professional management and cancellation strictness?
     
