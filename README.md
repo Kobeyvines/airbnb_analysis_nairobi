@@ -1,5 +1,4 @@
-# 📊 Project Title
-*AIRBNBS_LISTING_NAIROBI*
+# 📊 AIRBNBS_LISTING_NAIROBI
 
 ## 📁 Project Overview
 This project analyzes Airbnb listings in Nairobi to understand how listing characteristics, such as room type, cancellation policy, minimum stay requirements, and professional management, influence pricing and host behavior. The analysis matters because short-term rentals play a growing role in Nairobi’s housing and tourism ecosystem, affecting affordability, availability, and guest experience. By examining these patterns, the project provides data-driven insights into market dynamics and host strategies within Nairobi’s short-term rental market.
@@ -77,7 +76,7 @@ The dataset is organized with the following key segments:
     
 *   minimum\_nights (Numerical): Minimum night stay requirement
 
-### Source
+### Dataset Source
 https://www.airroi.com/data-portal/markets/nairobi-kenya
 ---
 
