@@ -115,20 +115,20 @@ https://www.airroi.com/data-portal/markets/nairobi-kenya
 
 ### Occupancy & Booking Patterns
 
-*   What's the average occupancy rate across the dataset?
+*   What's the average occupancy rate across the dataset? tick
     
-*   Do flexible cancellation policies lead to higher occupancy?
+*   Do flexible cancellation policies lead to higher occupancy? tick
     
-*   How does minimum night requirement affect booking frequency?
+*   How does minimum night requirement affect booking frequency? tick
     
-*   Which listing types have the highest occupancy rates?
+*   Which listing types have the highest occupancy rates? tick
     
-*   Are there seasonal trends in your data (if dates are available)?
+*   Are there seasonal trends in your data (if dates are available)? unfortunately, no dates available
     
 
 ### Host Strategy & Management
 
-*   Do professionally managed listings have better reviews/ratings (if available)?
+*   Do professionally managed listings have better reviews/ratings? NO Tick
     
 *   What percentage of listings are professionally managed vs. individual? tick
     
