@@ -134,9 +134,9 @@ https://www.airroi.com/data-portal/markets/nairobi-kenya
     
 *   Do professional hosts charge more or less than individual hosts? tick
     
-*   Is there a relationship between professional management and cancellation strictness?
+*   Is there a relationship between professional management and cancellation strictness? done
     
-*   How many listings per host on average?
+*   How many listings per host on average? done
     
 
 ### Geographic/Neighborhood Patterns
