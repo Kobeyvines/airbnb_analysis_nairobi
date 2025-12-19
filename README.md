@@ -141,9 +141,9 @@ https://www.airroi.com/data-portal/markets/nairobi-kenya
 
 ### Geographic/Neighborhood Patterns
 
-*   Are there neighborhood clusters with similar pricing?
+*   Are there neighborhood clusters with similar pricing? done
     
-*   Do certain neighborhoods favor specific room types?
+*   Do certain neighborhoods favor specific room types? 
     
 *   Which areas have the highest revenue potential?
     
