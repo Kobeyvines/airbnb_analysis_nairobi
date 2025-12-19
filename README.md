@@ -143,16 +143,16 @@ https://www.airroi.com/data-portal/markets/nairobi-kenya
 
 *   Are there neighborhood clusters with similar pricing? done
     
-*   Do certain neighborhoods favor specific room types? 
+*   Do certain neighborhoods favor specific room types? done
     
-*   Which areas have the highest revenue potential?
+*   Which areas have the highest revenue potential? done
     
 
 ### Quality & Features
 
 *   How many amenities do high-revenue listings typically have?
     
-*   Do listings with cover photos perform better?
+*   Do listings with cover photos perform better? Done
     
 *   What's the relationship between listing name length and bookings?
     
