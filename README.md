@@ -102,57 +102,57 @@ https://www.airroi.com/data-portal/markets/nairobi-kenya
 ## 📊 Key Insights
 ### Pricing & Revenue Analysis
 
-*   What's the correlation between listing type and average nightly rate? tick
+*   What's the correlation between listing type and average nightly rate? 
     
-*   Which room types generate the most revenue despite having lower average rates? tick
+*   Which room types generate the most revenue despite having lower average rates? 
     
-*   Are professionally managed listings priced higher than individually managed ones? tick
+*   Are professionally managed listings priced higher than individually managed ones? 
     
-*   What price range attracts the most bookings (occupancy)? tick
+*   What price range attracts the most bookings (occupancy)? 
     
-*   How does cancellation policy affect pricing strategy? tick
+*   How does cancellation policy affect pricing strategy? 
     
 
 ### Occupancy & Booking Patterns
 
-*   What's the average occupancy rate across the dataset? tick
+*   What's the average occupancy rate across the dataset? 
     
-*   Do flexible cancellation policies lead to higher occupancy? tick
+*   Do flexible cancellation policies lead to higher occupancy? 
     
-*   How does minimum night requirement affect booking frequency? tick
+*   How does minimum night requirement affect booking frequency? 
     
-*   Which listing types have the highest occupancy rates? tick
+*   Which listing types have the highest occupancy rates? 
     
 *   Are there seasonal trends in your data (if dates are available)? unfortunately, no dates available
     
 
 ### Host Strategy & Management
 
-*   Do professionally managed listings have better reviews/ratings? NO Tick
+*   Do professionally managed listings have better reviews/ratings? 
     
-*   What percentage of listings are professionally managed vs. individual? tick
+*   What percentage of listings are professionally managed vs. individual? 
     
-*   Do professional hosts charge more or less than individual hosts? tick
+*   Do professional hosts charge more or less than individual hosts? 
     
-*   Is there a relationship between professional management and cancellation strictness? done
+*   Is there a relationship between professional management and cancellation strictness? 
     
-*   How many listings per host on average? done
+*   How many listings per host on average? 
     
 
 ### Geographic/Neighborhood Patterns
 
-*   Are there neighborhood clusters with similar pricing? done
+*   Are there neighborhood clusters with similar pricing? 
     
-*   Do certain neighborhoods favor specific room types? done
+*   Do certain neighborhoods favor specific room types? 
     
-*   Which areas have the highest revenue potential? done
+*   Which areas have the highest revenue potential? 
     
 
 ### Quality & Features
 
-*   How many amenities do high-revenue listings typically have?
+*   How many amenities do high-revenue listings typically have? 
     
-*   Do listings with cover photos perform better? Done
+*   Do listings with cover photos perform better? 
     
 *   What's the relationship between listing name length and bookings?
     
@@ -163,7 +163,7 @@ https://www.airroi.com/data-portal/markets/nairobi-kenya
     
 *   Are there price gaps where new listings could compete?
     
-*   Which listing types have declining revenue trends?
+*   Which listing types have declining revenue trends? (Since we don't have date columns, trends might be tricky to unpack)
 
 ---
 
@@ -189,8 +189,8 @@ If applicable:
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/repo-name.git
-cd repo-name
+git clone https://github.com/Kobeyvines/airbnb_analysis_nairobi.git
+cd airbnb_analysis_nairobi
 
 # Create environment
 conda create -n analysis_env python=3.10
