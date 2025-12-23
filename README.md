@@ -185,7 +185,7 @@ If applicable:
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ```bash
 # Clone the repository
