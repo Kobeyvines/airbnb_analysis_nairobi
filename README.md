@@ -1,11 +1,11 @@
-# 📊 AIRBNBS_LISTING_NAIROBI
+# AIRBNBS_LISTING_NAIROBI
 
-## 📁 Project Overview
+## Project Overview
 This project analyzes Airbnb listings in Nairobi to understand how listing characteristics, such as room type, cancellation policy, minimum stay requirements, and professional management, influence pricing and host behavior. The analysis matters because short-term rentals play a growing role in Nairobi’s housing and tourism ecosystem, affecting affordability, availability, and guest experience. By examining these patterns, the project provides data-driven insights into market dynamics and host strategies within Nairobi’s short-term rental market.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Identify trends and patterns  
 - Perform exploratory data analysis (EDA)  
 - Build predictive models (if applicable)  
@@ -13,7 +13,7 @@ This project analyzes Airbnb listings in Nairobi to understand how listing chara
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 ### Description
 
@@ -80,7 +80,7 @@ The dataset is organized with the following key segments:
 https://www.airroi.com/data-portal/markets/nairobi-kenya
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
 - Jupyter Notebook  
 - SQL  
@@ -88,7 +88,7 @@ https://www.airroi.com/data-portal/markets/nairobi-kenya
 
 ---
 
-## 📈 Analysis Workflow
+## Analysis Workflow
 1. Data loading  
 2. Cleaning & preprocessing  
 3. Exploratory data analysis (EDA)  
@@ -99,7 +99,7 @@ https://www.airroi.com/data-portal/markets/nairobi-kenya
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 ### Pricing & Revenue Analysis
 
 *   What's the correlation between listing type and average nightly rate? 
@@ -167,7 +167,7 @@ https://www.airroi.com/data-portal/markets/nairobi-kenya
 
 ---
 
-## 📉 Visualizations
+## Visualizations
 You may include screenshots or links to charts:
 - Time series plots  
 - Bar/line charts  
@@ -177,7 +177,7 @@ You may include screenshots or links to charts:
 
 ---
 
-## 🤖 Models (Optional)
+## Models (Optional)
 If applicable:
 - Model type  
 - Metrics used  
